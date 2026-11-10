@@ -30,8 +30,8 @@ It supports:
 
 ## 🔗 Project Links (Legacy)
 
-- **Live Link:** https://www.curehelplus.me
-- **Azure Container Deployment Link:** https://curehelplus.grayground-1f565d06.centralindia.azurecontainerapps.io
+- **Live Link:** https://curehelpplus.grayground-1f565d06.centralindia.azurecontainerapps.io
+- **Azure Container Deployment Link:** https://curehelpplus.grayground-1f565d06.centralindia.azurecontainerapps.io
 - **Docker Image Link:** https://hub.decker.com/r/asimhusain/curehelplus
 
 ## ✅ What’s New / Current Highlights
